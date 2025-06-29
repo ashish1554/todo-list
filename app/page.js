@@ -40,7 +40,7 @@ const page = () => {
 }
   return (
   <>
-    <h1 className="bg-black text-white p-5 text-5xl text-center">A.V.P'S TODOLIST</h1>
+    <h1 className="bg-black text-white p-5 text-5xl text-center">TODOLIST</h1>
     <form onSubmit={submitHandler}>
         <input type="text"
         className='text-2xl border-zinc-800 border-2 m-5'
